@@ -1,0 +1,72 @@
+{
+  "total_views": 13,
+  "views": {
+    "transactions_clean": {
+      "rows": 401597,
+      "columns": 16,
+      "file_size_mb": 7.2
+    },
+    "districts_summary": {
+      "rows": 125,
+      "columns": 14,
+      "file_size_mb": 0.03
+    },
+    "schemes_summary": {
+      "rows": 9375,
+      "columns": 15,
+      "file_size_mb": 0.52
+    },
+    "timeline_rolling_12m_state": {
+      "rows": 912,
+      "columns": 8,
+      "file_size_mb": 0.02
+    },
+    "timeline_rolling_12m_district": {
+      "rows": 7125,
+      "columns": 9,
+      "file_size_mb": 0.1
+    },
+    "timeline_rolling_12m_scheme": {
+      "rows": 1533243,
+      "columns": 11,
+      "file_size_mb": 1.94
+    },
+    "price_trends_monthly": {
+      "rows": 31143,
+      "columns": 10,
+      "file_size_mb": 0.57
+    },
+    "affordability_matrix": {
+      "rows": 999,
+      "columns": 19,
+      "file_size_mb": 0.1
+    },
+    "property_type_comparison": {
+      "rows": 999,
+      "columns": 10,
+      "file_size_mb": 0.03
+    },
+    "tenure_analysis": {
+      "rows": 999,
+      "columns": 10,
+      "file_size_mb": 0.04
+    },
+    "hot_areas": {
+      "rows": 7819,
+      "columns": 13,
+      "file_size_mb": 0.25
+    },
+    "spatial_index": {
+      "rows": 27308,
+      "columns": 8,
+      "file_size_mb": 0.4
+    },
+    "outliers_flagged": {
+      "rows": 7013,
+      "columns": 11,
+      "file_size_mb": 0.14
+    }
+  },
+  "total_rows": 2028657,
+  "total_size_mb": 11.34
+}
